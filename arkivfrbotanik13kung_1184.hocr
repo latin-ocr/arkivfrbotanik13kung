@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik13kung_1184.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1116 1769 2056 2939">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1116 1769 2056 2939">
+     <span class='ocr_line' id='line_1_1' title="bbox 1116 1769 2056 2939; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1116 1769 2056 2939; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2708 1350 2715 2124">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2708 1350 2715 2124">
+     <span class='ocr_line' id='line_1_2' title="bbox 2708 1350 2715 2124; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 2708 1350 2715 2124; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2579 1963 2722 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2579 1963 2722 4368">
+     <span class='ocr_line' id='line_1_3' title="bbox 2579 1963 2595 2507; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 2587 2501 2595 2507; x_wconf 37' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 2579 1963 2582 1965; x_wconf 39' lang='lat'><em>⁴</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2708 2007 2722 4368; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 2708 2493 2722 4368; x_wconf 44' lang='grc' dir='ltr'><em>Ἥ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2708 2124 2717 2487; x_wconf 27' lang='grc' dir='ltr'>,ὤμῳ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2710 2007 2718 2086; x_wconf 39' lang='grc' dir='ltr'>ρ*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

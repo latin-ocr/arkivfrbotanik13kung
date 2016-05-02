@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik13kung_0740.png"; bbox 0 0 1882 3190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 9 92 914 142">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 9 92 914 142">
+     <span class='ocr_line' id='line_1_1' title="bbox 9 92 914 142; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 9 97 153 133; x_wconf 33' lang='lat' dir='ltr'>&amp;Em—f&lt;</span> <span class='ocrx_word' id='word_1_2' title='bbox 181 92 272 137; x_wconf 57' lang='grc' dir='ltr'>ἯΟἎ</span> <span class='ocrx_word' id='word_1_3' title='bbox 299 99 522 138; x_wconf 52' lang='grc' dir='ltr'>ωΟΰνἎΞ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 576 102 629 137; x_wconf 61' lang='lat' dir='ltr'>wa</span> <span class='ocrx_word' id='word_1_5' title='bbox 661 104 713 139; x_wconf 59' lang='grc' dir='ltr'>ὦ.</span> <span class='ocrx_word' id='word_1_6' title='bbox 764 105 832 140; x_wconf 39' lang='lat' dir='ltr'>Zuo</span> <span class='ocrx_word' id='word_1_7' title='bbox 863 107 914 142; x_wconf 72' lang='grc' dir='ltr'>Ξ,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 66 400 1882 2885">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 66 400 1882 2885">
+     <span class='ocr_line' id='line_1_2' title="bbox 66 400 1882 2885; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 66 400 1882 2885; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
